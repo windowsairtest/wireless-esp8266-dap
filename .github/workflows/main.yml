@@ -1,6 +1,6 @@
 name: wireless-esp8266-dap-ci-my-test
 
-on: [push]
+on: [push, pull_request]
 
 env:
   UPLOAD_USER_FIRMWARE: true
