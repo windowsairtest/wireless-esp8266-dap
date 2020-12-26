@@ -1,4 +1,4 @@
-name: wireless-esp8266-dap-ci
+name: wireless-esp8266-dap-ci-my-test
 
 on: [push]
 
